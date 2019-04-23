@@ -4,12 +4,9 @@ _WEI Wang_, yr 2 CS student
 potential freerider in CSCI 3100 project **CUPar**
 New to Github
 # My favorite actresses
-1.[Ishihara Satomi（いしはら さとみ）][1]
-2.[Gakki][2]
-3.[Gao Yuanyuan][3]
-[1]:https://www.instagram.com/satomisquad/
-[2]:https://www.instagram.com/aragakiyui_fanspage/
-[3]:https://www.weibo.com/gaoyuanyuan?is_all=1
+1. [Ishihara Satomi（いしはら さとみ）]
+2. [Gakki]
+3. [Gao Yuanyuan]
 # My Favorite Canteens
 CUHK Canteens | Visiting(eating) Frequency
 ------------- | --------------------------
