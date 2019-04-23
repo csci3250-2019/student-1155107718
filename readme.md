@@ -15,8 +15,8 @@ VeGether | every day
 Paper & Coffe | every week
 hostel pantry | random variable
 # Deadlines
--[x]CSCI 3250 Project milestone #1
--[x]CSCI 3250 Project milestone #2
--[]marry Ishihara Satomi
+- [x] CSCI 3250 Project milestone #1
+- [x] CSCI 3250 Project milestone #2
+- [ ] marry Ishihara Satomi
 # Command line
 ![command line](/git.png)
